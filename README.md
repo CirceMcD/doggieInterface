@@ -1,4 +1,4 @@
 # doggieInterface
 
-Interface: animal.java
+Interface: animal.java  
 Implementation: doggies.java
